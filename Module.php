@@ -1,6 +1,6 @@
 <?php
 
-namespace libphonenumbers-zf2;
+namespace phonenumberszf2;
 
 use Zend\ModuleManager\Feature\AutoloaderProviderInterface;
 
